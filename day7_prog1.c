@@ -9,7 +9,7 @@ temp = *x;
 *x = *y;
 *y = temp;
 }
-/* End of swap() */
+//End of swap() 
 
 /* Function to print permutations of string */
 void permute(char *a, int i, int n)

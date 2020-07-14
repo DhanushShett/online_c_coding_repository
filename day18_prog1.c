@@ -23,7 +23,7 @@ int main()
     int arr1[] = {0,3,6,9,12,14,18,20,22,25,27}; 
 	int ctr = sizeof(arr1)/sizeof(arr1[0]);
     int i;
-//---------- print original array ------------------------	
+/*---------- print original array ------------------------	*/
 	printf("The given array is :  ");
 	for(i = 0; i < ctr; i++)
 	{
